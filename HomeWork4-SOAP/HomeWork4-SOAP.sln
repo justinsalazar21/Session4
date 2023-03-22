@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork4-SOAP", "HomeWork4-SOAP\HomeWork4-SOAP.csproj", "{B2AB8268-9F0A-49E1-94D3-FAA565B1DB44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A742904-2757-4B7C-9D96-9EC6C32F1433}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AB8268-9F0A-49E1-94D3-FAA565B1DB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AB8268-9F0A-49E1-94D3-FAA565B1DB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AB8268-9F0A-49E1-94D3-FAA565B1DB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AB8268-9F0A-49E1-94D3-FAA565B1DB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DB783FB-DCF0-4F27-8063-1BB284855A5C}
+	EndGlobalSection
+EndGlobal
